@@ -36,7 +36,7 @@
 ---
 
 ## 🖼 Certificate Preview  
-![Certificate](cert.jpg)
+![Certificate](cert.png)
 
 ---
 ## 💻 Example Python Script  
